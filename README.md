@@ -4,6 +4,7 @@ Este repositorio forma parte de la actividad de implementación de buenas práct
 
 ## Información del Equipo
 - **Integrante que comparte el repositorio:** Oscar Giovanni Pedraza López
+Equipo: PentaCode
 
 ## 1. Buena Práctica Implementada
 
