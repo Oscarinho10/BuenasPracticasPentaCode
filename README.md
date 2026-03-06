@@ -2,8 +2,8 @@
 
 Este repositorio forma parte de la actividad de implementación de buenas prácticas de desarrollo de software asignada por el docente. 
 
-## Información del Equipo (Ejemplo)
-- **Integrante que comparte el repositorio:** *Anotar tu nombre o el de tu equipo aquí*
+## Información del Equipo
+- **Integrante que comparte el repositorio:** Oscar Giovanni Pedraza López
 
 ## 1. Buena Práctica Implementada
 
@@ -35,7 +35,7 @@ Dichas validaciones impiden llegar a la vista (`views.py`) si los datos son inco
 
 ## 3. Enlace del Repositorio PÚBLICO
 
-*Anotar aquí el enlace al repositorio de GitHub correspondiente.*
+https://github.com/Oscarinho10/BuenasPracticasPentaCode
 
 ---
 
